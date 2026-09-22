@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CivicAid",
+      "hasCanvas": false,
+      "bodyTextLen": 200,
+      "bodyTextHash": "32f30a4992b6788f450060d86c371e4bc64cbae200103113aa954a129abb2e7a",
+      "bodyTextPrefix": "CivicAid Create your account A few questions after this, so we o",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CivicAid",
+      "hasCanvas": false,
+      "bodyTextLen": 200,
+      "bodyTextHash": "32f30a4992b6788f450060d86c371e4bc64cbae200103113aa954a129abb2e7a",
+      "bodyTextPrefix": "CivicAid Create your account A few questions after this, so we o",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json"
+}
